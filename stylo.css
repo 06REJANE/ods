@@ -1,0 +1,62 @@
+   body{
+    background-image: radial-gradient(rgb(0, 255, 166), rgb(218, 139, 205), rgb(215, 218, 135));
+    height: 100%;
+   
+   }
+
+   .btn{
+   background-color: aliceblue;
+   border-radius: 1px;
+   font-size: 10px;
+   text-decoration: none;
+   padding: 8px;
+   display: inline-block;
+   }
+    h1{
+      font-size: 2.0rem;
+      font-style: oblique;
+      color: rgb(6, 6, 6);
+      text-align: center;
+      
+    }   
+      
+      
+   
+
+   .container-1{
+     align-content: last baseline;
+      display: flex;
+      text-align: center;
+      
+      
+   }
+
+   .heroBanner{
+    background-color: white;
+    }
+    
+    
+      .iframeContainer{
+         display: flex;
+         gap: 1rem;
+      }
+
+     .rodape{
+       
+         font-size: .6rem;
+         text-align: center;
+         text-align: right;
+        background-color: rgb(59, 55, 55);
+       
+
+     }
+       
+     .footer{
+     
+      border-radius: 5px;
+      font-size: 1rem;
+      text-decoration: none;
+      padding: 3rem;
+      color: rgb(172, 163, 163);
+     }
+   
